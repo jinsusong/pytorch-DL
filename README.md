@@ -8,5 +8,5 @@ https://www.notion.so/PyTorch-217004801d1447e08f73aa821f605624
   4. [파이썬 클래스 Class](https://www.notion.so/Class-39e03d48daa94bc3ab6534d79f0ffba4)
   5. [선형 회귀 (Linear Regression)](https://www.notion.so/Linear-Regression-f14cba06943a4730ba2b3fbd9c1dddd5)
       - [Code : Linear Regression](https://github.com/jinsusong/study-pytorch-DL/blob/main/PyTorch%EB%A1%9C_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.ipynb) 
-      - [자동 미분 (Autograd)]()
+      - [자동 미분 (Autograd)](https://www.notion.so/Autograd-89e8b322812049e3958caadf3a1e368a)
 
