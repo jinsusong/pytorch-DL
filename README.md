@@ -11,4 +11,7 @@ https://www.notion.so/PyTorch-217004801d1447e08f73aa821f605624
       - [자동 미분 (Autograd)](https://www.notion.so/Autograd-89e8b322812049e3958caadf3a1e368a)
       - [다중 선형 회귀(Multivariable Linear regression)](https://www.notion.so/Multivariable-Linear-regression-3334f468a5404e318d595408cb0f1fe8)
       - [nn.Module로 구현하는 선형 회귀](https://www.notion.so/nn-Module-0db58f18fc634fd79d14fd9db6fafac7)
+      - [클래스로 파이토치 모델 구현](https://www.notion.so/74a771bad7a94c43ae556815905db5f1)
+      - [미니 배치와 데이터 로드](https://www.notion.so/b8f0f343f50b42bfb98f235e760086b5)
+      - 
 
