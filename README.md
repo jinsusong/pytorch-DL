@@ -14,4 +14,10 @@ https://www.notion.so/PyTorch-217004801d1447e08f73aa821f605624
       - 클래스로 파이토치 모델 구현[Link](https://www.notion.so/74a771bad7a94c43ae556815905db5f1)
       - 미니 배치와 데이터 로드[Link](https://www.notion.so/b8f0f343f50b42bfb98f235e760086b5)
   6. [로지스틱 회귀 (Logistic Regression](https://www.notion.so/899974ee39ce4fa0a82a563dfd7d78b3)
+      - 로지스틱 회귀[Link](https://www.notion.so/899974ee39ce4fa0a82a563dfd7d78b3)
+      - nn.Module[Link](https://www.notion.so/nn-Module-472b2f7c19114c26ae90f0ab954d7766)
+      - 클래스로 로지스틱 모델 구현[Link](https://www.notion.so/d43048d2c1534b92910947409a45df30)
+  7. [진행중.소프트맥스 회귀](https://www.notion.so/899974ee39ce4fa0a82a563dfd7d78b3)
+      - 원-핫 인코딩[Link](https://www.notion.so/a292e7fe82b14a5ab456762d5d6d6f3c)
+      - 소프트맥스 회귀[Link](https://www.notion.so/e65b925942ea4d56aaf78d3d4e460bdc)
 
