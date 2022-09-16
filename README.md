@@ -21,3 +21,7 @@ https://www.notion.so/PyTorch-217004801d1447e08f73aa821f605624
       - 원-핫 인코딩[Link](https://www.notion.so/a292e7fe82b14a5ab456762d5d6d6f3c)
       - 소프트맥스 회귀[Link](https://www.notion.so/e65b925942ea4d56aaf78d3d4e460bdc)
 
+
+# 코드 분석 
+* Dataset and TensorDataSet : 배치 관련 담당, X,Y 데이터셋을 텐서 형태로 묶음
+* Reproductibility : 동일한 데이터와 모델로 학습을 진행했을 때 매번 다른 학습 파라미터가 생성되지 않도록 조정하는거 
