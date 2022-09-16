@@ -25,3 +25,5 @@ https://www.notion.so/PyTorch-217004801d1447e08f73aa821f605624
 # 코드 분석 
 * Dataset and TensorDataSet : 배치 관련 담당, X,Y 데이터셋을 텐서 형태로 묶음
 * Reproductibility : 동일한 데이터와 모델로 학습을 진행했을 때 매번 다른 학습 파라미터가 생성되지 않도록 조정하는거 
+* model.eval() : 학습할때만 필요한 Dropout, batchnorm 등을 비활성화 
+* torch.no_grad() : 자동으로 Gradient를 계산해주는 Context를 
